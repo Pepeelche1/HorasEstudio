@@ -16,3 +16,4 @@ public class HorasEstudio {
         return "Ideal. Trabajas los contenidos en casa";
     }
 }
+//Jose Daniel Guijarro Gili
